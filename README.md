@@ -7,6 +7,11 @@ I'm an operations executive who loves using technology to boost productivity. I'
     <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
+## 🧑‍🎓 Languages I know: 
+![JLPT N3](https://img.shields.io/badge/JLPT%20N3-ffcc00?style=for-the-badge) ![English Proficiency](https://img.shields.io/badge/English-00BFFF?style=for-the-badge) ![Chinese Proficiency](https://img.shields.io/badge/Chinese-FFD700?style=for-the-badge) ![Spanish Proficiency](https://img.shields.io/badge/Spanish-FF6347?style=for-the-badge)
+
+
+
 ## 💻 Tools I've learnt or used:
 [![Lean Sigma](https://img.shields.io/badge/Lean%20Sigma-0A57E4?style=for-the-badge)](URL)
  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![ChatGPT](https://img.shields.io/badge/ChatGPT-3366ff?style=for-the-badge&logo=ai&logoColor=white)
@@ -15,15 +20,13 @@ I'm an operations executive who loves using technology to boost productivity. I'
 
 
 
-## Real-life projects
+## 🤓 Real-life projects
 
 | Skills                                         | Associated Projects         | Associated Tools  
 |-----------------------------------------------|----------------------------|----------------------------|
 | 1. Scripting tools for Data Entry tasks       | [Data Entry Stuff](https://github.com/Tran1595/DataEntryStuff)|  ![Google AppScript](https://img.shields.io/badge/Google%20AppScript-3670A0?style=for-the-badge&logo=google&logoColor=white) ![AutoHotkey](https://img.shields.io/badge/AutoHotkey-334455?style=for-the-badge&logo=autohotkey&logoColor=white) |
 
 
-## 🤓 My Projects
-- [Data Entry Stuff](https://github.com/Tran1595/DataEntryStuff)
 
 
 
