@@ -9,7 +9,7 @@
 
 
 ## 🤓 My works
-[DataEntryStuff](https://github.com/Tran1595/DataEntryStuff)
+- [Data Entry Stuff](https://github.com/Tran1595/DataEntryStuff)
 
 
 
