@@ -20,12 +20,13 @@ I'm an operations executive who loves using technology to boost productivity. I'
 
 
 
-## 🤓 Real-life projects
+## 🤓 Personal Projects
 
-| Skills                                         | Associated Projects         | Associated Tools  
+| Details                                         | Associated Projects         | Associated Skills and Tools  
 |-----------------------------------------------|----------------------------|----------------------------|
 | 1. Scripting tools for Data Entry tasks       | [Data Entry Stuff](https://github.com/Tran1595/DataEntryStuff)|  ![Google AppScript](https://img.shields.io/badge/Google%20AppScript-3670A0?style=for-the-badge&logo=google&logoColor=white) ![AutoHotkey](https://img.shields.io/badge/AutoHotkey-334455?style=for-the-badge&logo=autohotkey&logoColor=white) |
-
+| 2. Scripting with the help of Excel Marco to build automation tool in Excel| CSVs Combination and Formatting | ![Excel Macro](https://img.shields.io/badge/Excel%20Macro-008272?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![VBA](https://img.shields.io/badge/VBA-86709D?style=for-the-badge&logo=visual%20studio&logoColor=white) 
+| 3. Design Print Artwork for Bookcover and Magazine | [Behance](https://www.behance.net/duongngoctran) | ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 
 
 
