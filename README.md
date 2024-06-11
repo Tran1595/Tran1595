@@ -21,7 +21,7 @@ In my role as a Category Management Executive in Industry Cloud Platforms, I ove
 
 
 
-## 🤓 Personal Projects
+## 🤓 Projects
 
 | Details                                         | Associated Projects         | Associated Skills and Tools  
 |-----------------------------------------------|----------------------------|----------------------------|
