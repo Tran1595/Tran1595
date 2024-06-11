@@ -25,8 +25,7 @@ I'm an operations executive who loves using technology to boost productivity. I'
 |-----------------------------------------------|----------------------------|----------------------------|
 | 1. Scripting tools for Data Entry tasks       | [Data Entry Stuff](https://github.com/Tran1595/DataEntryStuff)|  ![Google AppScript](https://img.shields.io/badge/Google%20AppScript-3670A0?style=for-the-badge&logo=google&logoColor=white) ![AutoHotkey](https://img.shields.io/badge/AutoHotkey-334455?style=for-the-badge&logo=autohotkey&logoColor=white) |
 | 2. Scripting with the help of Excel Marcos to build an automation tool in Excel| CSVs Combination and Formatting | ![Excel Macro](https://img.shields.io/badge/Excel%20Macro-008272?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![VBA](https://img.shields.io/badge/VBA-86709D?style=for-the-badge&logo=visual%20studio&logoColor=white) 
-| 3. 
-Design Print Artwork for Book cover and Magazine / Portrait Speed Paint | [Behance](https://www.behance.net/duongngoctran) / [Youtube](https://youtu.be/rfV0M9rNJJA?si=deo6sMCVZl-n6QMz) | ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+| 3. Design Print Artwork for Book cover and Magazine / Portrait Speed Paint | [Behance](https://www.behance.net/duongngoctran) / [Youtube](https://youtu.be/rfV0M9rNJJA?si=deo6sMCVZl-n6QMz) | ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 | 4. Create Github profile to showcase my works | [Tran Github Profile](https://github.com/Tran1595/Tran1595) | ![Markdown](https://img.shields.io/badge/Markdown-000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![ChatGPT](https://img.shields.io/badge/ChatGPT-3366ff?style=for-the-badge&logo=ai&logoColor=white)
 
 
