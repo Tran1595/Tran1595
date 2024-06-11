@@ -8,7 +8,7 @@ I'm an operations executive who loves using technology to boost productivity. I'
 </a>
 
 ## 🧑‍🎓 Languages I know: 
-![JLPT N3](https://img.shields.io/badge/JLPT%20N3-ffcc00?style=for-the-badge) ![English Proficiency](https://img.shields.io/badge/English-00BFFF?style=for-the-badge) ![Chinese Proficiency](https://img.shields.io/badge/Chinese-FFD700?style=for-the-badge) 
+![Japanese (JLPT N3)](https://img.shields.io/badge/Japanese%20(JLPT%20N3)-FFD700?style=for-the-badge) ![English Proficiency](https://img.shields.io/badge/English-00BFFF?style=for-the-badge) ![Chinese Proficiency](https://img.shields.io/badge/Chinese-FFD700?style=for-the-badge) 
 
 
 
