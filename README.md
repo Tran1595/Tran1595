@@ -2,6 +2,8 @@
 
 I'm an operations executive who loves using technology to boost productivity. I'm dedicated to solving tough problems with lean methods. I'm all about making things run smoother and better.
 
+In my role as a Category Management Executive in Industry Cloud Platforms, I oversee the extensive Saltmine furniture catalog. This involves research, categorization, and maintaining product standards across various clients. I ensure data accuracy, manage permissions, and collaborate within a dynamic team environment, demonstrating a strong sense of ownership and commitment to excellence
+
 ## 🌐 Socials:
 <a href="https://vn.linkedin.com/in/duongngoctran">
     <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
