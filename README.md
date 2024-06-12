@@ -30,6 +30,8 @@ In my role as a Category Management Executive in Industry Cloud Platforms, I ove
 | 3. Design Print Artwork for Book cover and Magazine / Portrait Speed Paint to enhance my creativity | [Behance](https://www.behance.net/duongngoctran) / [Youtube](https://youtu.be/rfV0M9rNJJA?si=deo6sMCVZl-n6QMz) | ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 | 4. Create Github profile to showcase my works for professional portfolio and career advancement | [Tran Github Profile](https://github.com/Tran1595/Tran1595) | ![Markdown](https://img.shields.io/badge/Markdown-000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![ChatGPT](https://img.shields.io/badge/ChatGPT-3366ff?style=for-the-badge&logo=ai&logoColor=white)
 | 5. Translate song | [Vietsub/Lyrics - Mr. Children - Birthday](https://youtu.be/Az23Z8TA0I0?si=nmpj8GcwBRDOzqrV) | ![Japanese (JLPT N3)](https://img.shields.io/badge/Japanese%20(JLPT%20N3)-FFD700?style=for-the-badge)
+| 6. System User Acceptance Testing (UAT) Management in Jira. Outcomes: Streamlined UAT process, improved issue tracking. | UAT for Backoffice System Revamp | ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white) ![Agile](https://img.shields.io/badge/Agile-0096D6?style=for-the-badge&logo=agile&logoColor=white) |
+
 
 
 
