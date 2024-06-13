@@ -38,7 +38,7 @@ In my role as a Category Management Executive in Industry Cloud Platforms, I ove
 
 
 
-## 🥠 Interests
+## 🎨 Interests
 ![Swimming](https://img.shields.io/badge/Swimming-006994?style=for-the-badge) ![Painting](https://img.shields.io/badge/Painting-FF6F61?style=for-the-badge) ![DIY](https://img.shields.io/badge/DIY-4CAF50?style=for-the-badge) ![Food](https://img.shields.io/badge/Food-FFC107?style=for-the-badge)
 
 
