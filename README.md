@@ -27,9 +27,8 @@ In my role as a Category Management Executive in Industry Cloud Platforms, I ove
 
 | Details                                         | Associated Projects         | Associated Skills and Tools  
 |-----------------------------------------------|----------------------------|----------------------------|
-| 1. Scripting tools for Data Entry tasks. Outcomes: Faster, more accurate data entry.       | [Data Entry Stuff](https://github.com/Tran1595/DataEntryStuff)| ![Google Workspace](https://img.shields.io/badge/Google_Workspace-32A9CE?style=for-the-badge&logo=google&logoColor=white)
- ![Google AppScript](https://img.shields.io/badge/Google%20AppScript-3670A0?style=for-the-badge&logo=google&logoColor=white) ![AutoHotkey](https://img.shields.io/badge/AutoHotkey-334455?style=for-the-badge&logo=autohotkey&logoColor=white) |
-| 2. Scripting with the help of Excel Marcos to build an automation tool in Excel. Outcomes: Reducing manual labor | CSVs Combination and Formatting | ![Excel Macro](https://img.shields.io/badge/Excel%20Macro-008272?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![VBA](https://img.shields.io/badge/VBA-86709D?style=for-the-badge&logo=visual%20studio&logoColor=white) 
+| 1. Scripting tools for Data Entry tasks. Outcomes: Faster, more accurate data entry.       | [Data Entry Stuff](https://github.com/Tran1595/DataEntryStuff)| ![Google Workspace](https://img.shields.io/badge/Google_Workspace-32A9CE?style=for-the-badge&logo=google&logoColor=white) ![Lean Sigma](https://img.shields.io/badge/Lean%20Sigma-0A57E4?style=for-the-badge) ![Google AppScript](https://img.shields.io/badge/Google%20AppScript-3670A0?style=for-the-badge&logo=google&logoColor=white) ![AutoHotkey](https://img.shields.io/badge/AutoHotkey-334455?style=for-the-badge&logo=autohotkey&logoColor=white) |
+| 2. Scripting with the help of Excel Marcos to build an automation tool in Excel. Outcomes: Reducing manual labor | CSVs Combination and Formatting |![Lean Sigma](https://img.shields.io/badge/Lean%20Sigma-0A57E4?style=for-the-badge) ![Excel Macro](https://img.shields.io/badge/Excel%20Macro-008272?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![VBA](https://img.shields.io/badge/VBA-86709D?style=for-the-badge&logo=visual%20studio&logoColor=white) 
 | 3. Design Print Artwork for Book cover and Magazine / Portrait Speed Paint to enhance my creativity | [Behance](https://www.behance.net/duongngoctran) / [Youtube](https://youtu.be/rfV0M9rNJJA?si=deo6sMCVZl-n6QMz) | ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 | 4. Create Github profile to showcase my works for professional portfolio and career advancement | [Tran Github Profile](https://github.com/Tran1595/Tran1595) | ![Markdown](https://img.shields.io/badge/Markdown-000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![ChatGPT](https://img.shields.io/badge/ChatGPT-3366ff?style=for-the-badge&logo=ai&logoColor=white)
 | 5. Translate song and make subtitle video| [Vietsub/Lyrics - Mr. Children - Birthday](https://youtu.be/Az23Z8TA0I0?si=nmpj8GcwBRDOzqrV) | ![Aegisub](https://img.shields.io/badge/Aegisub-FF0000?style=for-the-badge&logo=aegisub&logoColor=white)![Japanese (JLPT N3)](https://img.shields.io/badge/Japanese%20(JLPT%20N3)-FFD700?style=for-the-badge)
@@ -40,7 +39,7 @@ In my role as a Category Management Executive in Industry Cloud Platforms, I ove
 
 
 ## 🥠 Interests
-![Swimming](https://img.shields.io/badge/Swimming-006994?style=for-the-badge) ![Diving](https://img.shields.io/badge/Diving-00A0B0?style=for-the-badge) ![Painting](https://img.shields.io/badge/Painting-FF6F61?style=for-the-badge) ![DIY](https://img.shields.io/badge/DIY-4CAF50?style=for-the-badge) ![Food](https://img.shields.io/badge/Food-FFC107?style=for-the-badge)
+![Swimming](https://img.shields.io/badge/Swimming-006994?style=for-the-badge) ![Painting](https://img.shields.io/badge/Painting-FF6F61?style=for-the-badge) ![DIY](https://img.shields.io/badge/DIY-4CAF50?style=for-the-badge) ![Food](https://img.shields.io/badge/Food-FFC107?style=for-the-badge)
 
 
 
