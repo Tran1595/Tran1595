@@ -2,7 +2,7 @@
 
 I'm an operations executive passionate about leveraging technology to enhance productivity and dedicated to problem-solving with lean methods, I thrive on making processes run smoother and better. I actively pursue learning new skills to meet evolving job requirements and excel in my professional journey.
 
-In my role as a Category Management Executive in Industry Cloud Platforms, I oversee the extensive the company's furniture catalogs. This involves research, categorization, and maintaining product standards across various clients. I ensure data accuracy, manage permissions, and collaborate within a dynamic team environment, demonstrating a strong sense of ownership and commitment to excellence
+In my role as a Category Management Executive in Industry Cloud Platforms, I oversee the extensive the company's furniture catalogs. This involves research, categorization, and maintaining product standards across various clients. I ensure data accuracy, manage permissions, and collaborate within a dynamic team environment, demonstrating a strong sense of ownership and commitment to excellence.
 
 ## 🌐 Socials:
 <a href="https://vn.linkedin.com/in/duongngoctran">
@@ -39,8 +39,5 @@ In my role as a Category Management Executive in Industry Cloud Platforms, I ove
 
 
 ## 🎨 Interests
-![Swimming](https://img.shields.io/badge/Swimming-006994?style=for-the-badge) ![Painting](https://img.shields.io/badge/Painting-FF6F61?style=for-the-badge) ![DIY](https://img.shields.io/badge/DIY-4CAF50?style=for-the-badge) ![Food](https://img.shields.io/badge/Food-FFC107?style=for-the-badge)
-
-
-
+![Swimming](https://img.shields.io/badge/Swimming-006994?style=for-the-badge) ![Painting](https://img.shields.io/badge/Painting-FF6F61?style=for-the-badge) ![DIY](https://img.shields.io/badge/DIY-4CAF50?style=for-the-badge) ![Food](https://img.shields.io/badge/Food-FFC107?style=for-the-badge) ![Chess](https://img.shields.io/badge/Chess-808080?style=for-the-badge) 
 
